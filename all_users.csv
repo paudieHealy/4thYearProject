@@ -1,0 +1,10 @@
+price,bedrooms,bathrooms,floors,zipcode,la,long,rating,user
+price,price,price,price,price
+bedrooms,bedrooms,bedrooms,bedrooms,bedrooms
+bathrooms,bathrooms,bathrooms,bathrooms,bathrooms
+floors,floors,floors,floors,floors
+zipcode,zipcode,zipcode,zipcode,zipcode
+lat,lat,lat,lat,lat
+long,long,long,long,long
+rating,rating,rating,rating,rating
+user,user,user,user,user
